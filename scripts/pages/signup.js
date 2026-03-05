@@ -2,7 +2,7 @@
  * Redirects the user to the signup page.
  */
 function signUp() {
-    window.location.href = "./pages/signup.html"
+    window.location.href = "/join/pages/signup.html"
 }
 
 // #region Init
