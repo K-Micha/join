@@ -51,7 +51,7 @@ function finalizeSignupError(message) {
  */
 function finalizeSignupSuccess(signupData) {
     showSignupToast();
-    setTimeout(() => window.location.href = "/index.html", 900);
+    setTimeout(() => window.location.href = "/join/", 900);
 }
 // #endregion
 
